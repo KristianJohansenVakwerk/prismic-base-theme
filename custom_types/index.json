@@ -1,0 +1,11 @@
+[{
+  "id": "globals",
+  "name": "Globals",
+  "repeatable": false,
+  "value": "globals.json"
+}, {
+  "id": "page",
+  "name": "Pages",
+  "repeatable": true,
+  "value": "pages.json"
+}]
